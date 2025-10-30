@@ -3,6 +3,5 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface PlaylistRepository extends JpaRepository<Playlist, Integer> {
-    // Spring Data JPA автоматично надає методи:
-    // save(), findById(), findAll(), deleteById() та ін.
+    // Spring Data JPA автоматично надає методи
 }
