@@ -84,3 +84,4 @@ public class LibraryManagerFormController {
         albumComboBox.getSelectionModel().clearSelection();
     }
 }
+
