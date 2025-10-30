@@ -22,3 +22,4 @@ public class Artist {
     public Set<Album> getAlbums() { return albums; }
     public void setAlbums(Set<Album> albums) { this.albums = albums; }
 }
+
