@@ -20,5 +20,5 @@ public class Playlist {
     )
     private Set<Track> tracks;
 
-    // Геттери, сеттери та конструктори
+    // Геттери сеттери
 }
