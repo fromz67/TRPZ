@@ -41,3 +41,4 @@ public class HttpClientService {
             objectMapper.getTypeFactory().constructCollectionType(List.class, Playlist.class));
     }
 }
+
